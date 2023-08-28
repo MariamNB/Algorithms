@@ -30,6 +30,8 @@ int main() {
 
 }
 
+/* the complexity of insertion sort is : O(n²) */
+
 void insrtionsort(vint &v, int n){
 
     int key, z;
