@@ -66,7 +66,7 @@ void printVector(vint v){
     for(auto &i :v) cout << i << ' ';
 }
 int main() {
-
+    /* the complexity of merge sort is: O(n*log n) */
     vint v = {14, 11, 1, 5, 20};
 
     printf("Given array is:\n");
